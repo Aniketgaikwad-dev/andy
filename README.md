@@ -12,4 +12,4 @@ i used django frame to make this project
 *used packages 
 1.pillow for image processing
 2.form xml.etree.ElementTree for parse the data from xml file
-3.django rest_framework for creating api
+3.django rest_framework for creating api(pip install djangorestframework)
