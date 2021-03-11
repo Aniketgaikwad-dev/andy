@@ -9,3 +9,7 @@ i used django frame to make this project
 *forms of django framework are used for accepting the file from user
 *to run the code first you have download whole folder and open it in and text editor and type following command
 ->python manage.py runserver
+*used packages 
+1.pillow for image processing
+2.form xml.etree.ElementTree for parse the data from xml file
+3.django rest_framework for creating api
